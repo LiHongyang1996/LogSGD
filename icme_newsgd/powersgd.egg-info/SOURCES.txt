@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+powersgd/__init__.py
+powersgd/orthogonalization.py
+powersgd/powersgd.py
+powersgd/utils.py
+powersgd.egg-info/PKG-INFO
+powersgd.egg-info/SOURCES.txt
+powersgd.egg-info/dependency_links.txt
+powersgd.egg-info/requires.txt
+powersgd.egg-info/top_level.txt
