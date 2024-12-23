@@ -1,0 +1,8 @@
+output.tmp
+__pycache__
+.vscode/
+._*.html
+.AppleDouble/
+test*.py
+*.egg-info
+dist/
